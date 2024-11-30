@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Player_FallGame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Player_FallGame",
+  "parent":{
+    "name":"group1",
+    "path":"folders/Scripts/group1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
