@@ -61,6 +61,7 @@
     {"id":{"name":"entity_script","path":"scripts/entity_script/entity_script.yy",},},
     {"id":{"name":"food_script","path":"scripts/food_script/food_script.yy",},},
     {"id":{"name":"player_fallgame_script","path":"scripts/player_fallgame_script/player_fallgame_script.yy",},},
+    {"id":{"name":"MUS_Battle_Loop_181bpm_Ebm_wav","path":"sounds/MUS_Battle_Loop_181bpm_Ebm_wav/MUS_Battle_Loop_181bpm_Ebm_wav.yy",},},
     {"id":{"name":"sfx_fakesteak_eat_001","path":"sounds/sfx_fakesteak_eat_001/sfx_fakesteak_eat_001.yy",},},
     {"id":{"name":"sfx_fakesteak_eat_002","path":"sounds/sfx_fakesteak_eat_002/sfx_fakesteak_eat_002.yy",},},
     {"id":{"name":"sfx_fakesteak_eat_003","path":"sounds/sfx_fakesteak_eat_003/sfx_fakesteak_eat_003.yy",},},

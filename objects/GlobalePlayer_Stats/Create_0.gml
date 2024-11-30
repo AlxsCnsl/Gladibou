@@ -11,6 +11,7 @@ global.active_hp = global.max_hp;
 global.atk_power = 10 * global.lvl;
 
 global.accuracy = 80;
+sound_launch = 0;
 
 //les sond
 global.fakesteak_eat_snds = [sfx_fakesteak_eat_001, sfx_fakesteak_eat_002, sfx_fakesteak_eat_003, sfx_fakesteak_eat_004];
