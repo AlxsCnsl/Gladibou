@@ -47,6 +47,7 @@
     {"id":{"name":"Fall_game_map","path":"rooms/Fall_game_map/Fall_game_map.yy",},},
     {"id":{"name":"Player_FallGame","path":"scripts/Player_FallGame/Player_FallGame.yy",},},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"colide_sprite","path":"sprites/colide_sprite/colide_sprite.yy",},},
     {"id":{"name":"floor_sprite","path":"sprites/floor_sprite/floor_sprite.yy",},},
     {"id":{"name":"food_sprite","path":"sprites/food_sprite/food_sprite.yy",},},
