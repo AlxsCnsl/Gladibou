@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"entity_script",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"entity_script",
+  "parent":{
+    "name":"arena_scripts",
+    "path":"folders/Scripts/arena_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

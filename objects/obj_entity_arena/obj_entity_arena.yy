@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"GlobalePlayer_Stats",
+  "%Name":"obj_entity_arena",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"GlobalePlayer_Stats",
+  "name":"obj_entity_arena",
   "overriddenProperties":[],
   "parent":{
-    "name":"Globale",
-    "path":"folders/Objects/Globale.yy",
+    "name":"Arena_Objects",
+    "path":"folders/Objects/Arena_Objects.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"globale_sprite",
-    "path":"sprites/globale_sprite/globale_sprite.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

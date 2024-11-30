@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"GlobalePlayer_Stats",
+  "%Name":"obj_life_bar",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"GlobalePlayer_Stats",
+  "name":"obj_life_bar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Globale",
-    "path":"folders/Objects/Globale.yy",
+    "name":"Gui_Objects",
+    "path":"folders/Objects/Gui_Objects.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"globale_sprite",
-    "path":"sprites/globale_sprite/globale_sprite.yy",
+    "name":"hp_bare_sprite",
+    "path":"sprites/hp_bare_sprite/hp_bare_sprite.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
