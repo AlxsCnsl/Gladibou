@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"colide_sprite",
-    "path":"sprites/colide_sprite/colide_sprite.yy",
+    "name":"gladiator_sprite",
+    "path":"sprites/gladiator_sprite/gladiator_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

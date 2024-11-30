@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"monster_sprite",
-    "path":"sprites/monster_sprite/monster_sprite.yy",
+    "name":"slime_sprite",
+    "path":"sprites/slime_sprite/slime_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
